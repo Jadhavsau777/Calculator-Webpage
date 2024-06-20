@@ -12,6 +12,7 @@
 <h4>2.It Don't Have Any Type Of Functions To solve Other Type Of Mathmatical Problems.</h4>
 <br/>
 <h5>Here Is The Output	&darr;</h5>
-<h5>Link To The Webpage:<a href="https://jadhavsau777.github.io/Calculator-Webpage/" style="text-decoration:none;">Link</a></h5>
-
 <img src="img/Screenshot 2024-06-20 120133.png" alt="Image Showing How It Looks On Browser">
+<h5>Link To The Webpage:<a href="https://jadhavsau777.github.io/Calculator-Webpage/" style="text-decoration:none;"> Link</a></h5>
+
+
